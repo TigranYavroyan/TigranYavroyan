@@ -7,7 +7,7 @@ C/C++ Software Developer
 I’m Tigran, a passionate and dedicated software developer with a strong foundation in programming and problem-solving. I thrive on learning and pushing my boundaries, constantly exploring new technologies. Beyond coding, I’m committed to growth and collaboration, valuing teamwork and the opportunity to learn from others as I continue to build my career in software engineering.
 
 * 🌍  I'm based in Yerevan, Armenia
-* 🧠  I'm learning 42 Yerevan (Ecole 42), National Polytechnical University
+* 🧠  I'm learning at 42 Yerevan (Ecole 42), National Polytechnical University
 * 🤝  I'm open to collaborating on Web applications , system programming
 * ⚡  I am interested in music, chess and movies
 
